@@ -13,7 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media3.giphy.com/media/xUOrw01a1gy7BUwq40/200w.webp?cid=ecf05e472vz60cbl2f0f8eikv643jltp5tp00alf5yk9d61n&rid=200w.webp&ct=g">
+  <img align="right" alt="imagem" src="https://i.gifer.com/origin/54/54932d0486319f0291109ab437831475_w200.gif">
 </div>
   
   ##
