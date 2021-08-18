@@ -1,4 +1,4 @@
-### Hello, my name is Leonardo Felipe. Welcome to my profile!!!
+### Hello, I'm Leonardo Felipe. Welcome to my profile!!!
 - Computer Egineering Student
 <div>
   <a href="https://github.com/leonardofmoraes">
@@ -23,5 +23,5 @@
   <a href="https://www.linkedin.com/in/leonardofmoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/leonardofmoraes"><img src="https://img.shields.io/github/followers/leonardofmoraes?label=follow&style=social" height="28" title="Follow me" alt="GitHub">
 </a>
-</div>
+  </div>
     
