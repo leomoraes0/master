@@ -1,4 +1,4 @@
-### Hello, my name is Leonardo Felipe. Nice to meet you!!!
+### Hello, my name is Leonardo Felipe. Welcome to my profile!!!
 - Computer Egineering Student
 <div>
   <a href="https://github.com/leonardofmoraes">
