@@ -22,6 +22,8 @@
   <a href="mailto:leonardofelipe0435@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardofmoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/leonardofmoraes"><img src="https://img.shields.io/github/followers/leonardofmoraes?label=follow&style=social" height="28" title="Follow me" alt="GitHub">
-</a>
+
+  ![Snake animation](https://github.com/leonardofmoraes/leonardofmoraes/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
     
