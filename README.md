@@ -1,17 +1,18 @@
-### Hello, I'm Leonardo Felipe. Welcome to my profile!!!
-- Computer Egineering Student
+### E aí, sou o Leonardo Felipe. Seja bem-vindo ao meu perfil!
+- Estudando Engenharia da Computação :man_technologist: :rocket:
 <div>
   <a href="https://github.com/leonardofmoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardofmoraes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofelipe&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  <div style="display: inline_block"><br>
+  
+<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gif" src="https://c.tenor.com/voRmLuBIz3YAAAAM/obrigado-amigo-pica-pau.gif">
+  <img align="right" alt="gif" src="https://i.gifer.com/origin/e3/e3121f8243df543e609c5129cdea64be_w200.webp">
 </div> 
   
   ##
