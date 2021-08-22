@@ -12,7 +12,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gif" src="https://i.gifer.com/origin/62/6261063bbd5c04ac47fe5cd3e8902abf_w200.webp">
+  <img align="right" alt="gif" src="https://i.gifer.com/origin/1d/1d3edf4117eda83437351472d63b242f_w200.webp">
 </div> 
   
   ##
