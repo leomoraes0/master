@@ -13,7 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="imagem" src="https://i.gifer.com/origin/54/54932d0486319f0291109ab437831475_w200.gif">
+  <img align="right" alt="imagem" src="https://c.tenor.com/voRmLuBIz3YAAAAM/obrigado-amigo-pica-pau.gif">
 </div> 
   
   ##
