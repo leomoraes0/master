@@ -1,4 +1,4 @@
-### Olá, sou o Leonardo Moraes. Seja bem-vindo ao meu perfil.
+### Olá, seja bem-vindo(a) ao meu perfil.
 - Estudante de Engenharia da Computação :man_technologist: :rocket:
 <div>
   <a href="https://github.com/leonardofmoraes">
