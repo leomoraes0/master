@@ -1,5 +1,5 @@
-### Olá, seja bem-vindo(a) ao meu perfil.
-- Estudante de Engenharia da Computação :man_technologist: :rocket:
+### Hi, nice to meet to you.
+- Computer Engineer :man_technologist: :rocket:
 <div>
   <a href="https://github.com/leonardofmoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardofmoraes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
