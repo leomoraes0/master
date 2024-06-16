@@ -23,3 +23,7 @@ Olá! Eu sou o Leo Moraes, um entusiasta de tecnologia e apaixonado por criar so
 ![Commits Recentes](https://github-readme-stats.vercel.app/api?username=leomoraes0&show_icons=true&theme=github_dark)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoraes0&layout=compact&theme=github_dark)
+
+## Calculadora Binária
+
+Experimente minha calculadora binária: [Clique aqui](https://<seu-usuario>.github.io/calculator-binary/)
