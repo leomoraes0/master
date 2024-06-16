@@ -4,7 +4,7 @@
 ![Bem-vindo](https://img.shields.io/badge/Bem%20vindo-GitHub-000000?style=flat&logo=github)
 
 ## Sobre Mim
-Olá! Eu sou Leonardo Moraes, um entusiasta de tecnologia e desenvolvedor apaixonado por criar soluções inovadoras.
+Olá! Eu sou Leo Moraes, um entusiasta de tecnologia e apaixonado por criar soluções inovadoras.
 
 ## Conecte-se Comigo
 
@@ -20,13 +20,6 @@ Olá! Eu sou Leonardo Moraes, um entusiasta de tecnologia e desenvolvedor apaixo
 
 ## Meus Commits Recentes
 
-![Commits Recentes](https://activity-graph.herokuapp.com/graph?username=seu-username&theme=github-dark&hide_border=true)
+![Commits Recentes](https://github-readme-stats.vercel.app/api?username=leomoraes0&show_icons=true&theme=github_dark)
 
-<!-- Substitua 'seu-username' pelo seu nome de usuário no GitHub -->
-
-<style>
-  body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-  }
-</style>
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoraes0&layout=compact&theme=github_dark)
