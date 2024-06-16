@@ -26,4 +26,4 @@ Olá! Eu sou o Leo Moraes, um entusiasta de tecnologia e apaixonado por criar so
 
 ## Calculadora Binária
 
-Experimente minha calculadora binária: [Clique aqui](https://<seu-usuario>.github.io/calculator-binary/)
+Experimente minha calculadora binária: [Clique aqui](https://leomoraes0.github.io/calculator-binary/)
