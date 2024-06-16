@@ -4,7 +4,7 @@
 ![Bem-vindo](https://img.shields.io/badge/Bem%20vindo-GitHub-000000?style=flat&logo=github)
 
 ## Sobre Mim
-Olá! Eu sou Leo Moraes, um entusiasta de tecnologia e apaixonado por criar soluções inovadoras.
+Olá! Eu sou o Leo Moraes, um entusiasta de tecnologia e apaixonado por criar soluções inovadoras.
 
 ## Conecte-se Comigo
 
